@@ -10,6 +10,11 @@ body {
   background: url(/img/bg_001.jpg) no-repeat center center fixed;
 }
 
+a {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 a:hover,
 a:visited,
 a:link,
@@ -18,9 +23,10 @@ a:active {
 }
 
 button {
-  height: 35px;
-  width: 120px;
+  height: 50px;
+  width: 160px;
   color: white;
+  font-size: 18px;
   border: none;
   border-radius: 5%;
   padding: 10px;
@@ -36,7 +42,7 @@ button {
 }
 
 .box1 img {
-  width: 40%;
+  width: 180px;
 }
 .box3 h2 {
   font-weight: 200;
