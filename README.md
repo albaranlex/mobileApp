@@ -1,4 +1,4 @@
-![ScreenShot](./screenshots/screenshot1.png)
+![ScreenShot](./screenshots/screenshot-1.png)
 
 ## Notes:
 
