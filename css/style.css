@@ -10,12 +10,19 @@ body {
   background: url("../img/bg_001.jpg") no-repeat center center fixed;
 }
 
+/* logo */
+.box1 img {
+  width: 180px;
+}
+
+/* nav links */
 a {
   margin-left: 10px;
   margin-right: 10px;
   text-decoration: none;
 }
 
+/* buttons */
 button {
   height: 50px;
   width: 160px;
@@ -35,14 +42,14 @@ button {
   background: #3598db;
 }
 
-.box1 img {
-  width: 180px;
-}
+/* Text Headline on Content Section */
 .box3 h2 {
   font-weight: 200;
   font-size: 35px;
   margin-top: 50px;
 }
+
+/* Mobile Phones */
 .box4 img {
   height: 100%;
 }
@@ -56,7 +63,8 @@ button {
   transform: translate(0px, -99%);
   z-index: -1;
 }
-/* Grid */
+
+/* Main Grid / Page Sectioning */
 main {
   margin: 50px 250px;
   height: 80vh;
